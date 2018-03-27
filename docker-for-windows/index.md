@@ -480,7 +480,7 @@ the Docker CLI talks to. Select **Switch to Windows containers** to use Windows
 containers, or select **Switch to Linux containers** to use Linux containers
 (the default).
 
-![Windows-Linux container types switch](images/docker-menu-switch.png){:width="500px"}
+![Windows-Linux container types switch](images/docker-menu-switch.png){:width="450px"}
 
 For more information on Windows containers, refer to thiz documentation:
 
